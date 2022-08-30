@@ -1,0 +1,11 @@
+<svg width="16" height="24" viewBox="0 0 16 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.3 2C0.3 1.06112 1.06112 0.3 2 0.3H3C3.93888 0.3 4.7 1.06112 4.7 2V6C4.7 6.93888 3.93888 7.7 3 7.7H2C1.06112 7.7 0.3 6.93888 0.3 6V2Z" stroke="#F0AE20" stroke-width="0.6"/>
+<path d="M0.3 18C0.3 17.0611 1.06112 16.3 2 16.3H3C3.93888 16.3 4.7 17.0611 4.7 18V22C4.7 22.9389 3.93888 23.7 3 23.7H2C1.06112 23.7 0.3 22.9389 0.3 22V18Z" stroke="#F0AE20" stroke-width="0.6"/>
+<path d="M11.3 2C11.3 1.06112 12.0611 0.3 13 0.3H14C14.9389 0.3 15.7 1.06112 15.7 2V6C15.7 6.93888 14.9389 7.7 14 7.7H13C12.0611 7.7 11.3 6.93888 11.3 6V2Z" stroke="#F0AE20" stroke-width="0.6"/>
+<path d="M11.3 18C11.3 17.0611 12.0611 16.3 13 16.3H14C14.9389 16.3 15.7 17.0611 15.7 18V22C15.7 22.9389 14.9389 23.7 14 23.7H13C12.0611 23.7 11.3 22.9389 11.3 22V18Z" stroke="#F0AE20" stroke-width="0.6"/>
+<path d="M8 4L8 20" stroke="white" stroke-width="0.8"/>
+<path d="M5 4H11" stroke="white" stroke-width="0.6"/>
+<path d="M5 20H11" stroke="white" stroke-width="0.6"/>
+<circle cx="8" cy="20" r="1" fill="white"/>
+<circle cx="8" cy="4" r="1" fill="white"/>
+</svg>
